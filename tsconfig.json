@@ -1,0 +1,15 @@
+{
+  "exclude": [
+    "./tests",
+    "./node_modules",
+    "./dist",
+    ".nyc_output"
+  ],
+  "compilerOptions": {
+    "target": "es2022",
+    "module": "Node16",
+    "rootDir": "./src",
+    "outDir": "./dist",
+    "esModuleInterop": true,
+  }
+}
