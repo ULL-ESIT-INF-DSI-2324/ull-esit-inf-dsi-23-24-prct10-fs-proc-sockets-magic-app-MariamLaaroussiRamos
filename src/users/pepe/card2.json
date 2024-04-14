@@ -1,0 +1,10 @@
+{
+  "id": 2,
+  "name": "Black Lotus",
+  "cost": 3000,
+  "color": "azul",
+  "cardType": "tierra",
+  "rarity": "rara",
+  "rulesText": "prueba",
+  "marketValue": 3
+}
