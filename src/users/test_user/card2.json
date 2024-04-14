@@ -1,0 +1,10 @@
+{
+  "id": 2,
+  "name": "Updated Card",
+  "cost": 4,
+  "color": "Verde",
+  "cardType": "Encantamiento",
+  "rarity": "Rara",
+  "rulesText": "Nuevas reglas",
+  "marketValue": 40
+}
