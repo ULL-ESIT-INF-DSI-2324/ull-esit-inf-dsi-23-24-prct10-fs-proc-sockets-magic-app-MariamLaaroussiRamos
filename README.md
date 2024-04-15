@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/7bX30zK4)
 # Práctica 10 - Aplicación cliente-servidor para coleccionistas de cartas Magic #
 ## Introducción #
 En la Práctica 10 del curso Desarrollo de Sistemas Informáticos del Grado en Ingeniería Informática en la ULL, se aborda la implementación de una aplicación cliente-servidor para coleccionistas de cartas Magic. Este proyecto extiende el trabajo realizado en la Práctica 9, ahora utilizando sockets proporcionados por el módulo net de Node.js para la comunicación entre cliente y servidor.
