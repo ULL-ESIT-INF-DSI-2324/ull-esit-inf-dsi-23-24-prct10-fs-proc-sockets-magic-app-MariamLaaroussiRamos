@@ -1,3 +1,4 @@
+[![Coverage Status](https://coveralls.io/repos/github/ULL-ESIT-INF-DSI-2324/ull-esit-inf-dsi-23-24-prct10-fs-proc-sockets-magic-app-MariamLaaroussiRamos/badge.svg?branch=main)](https://coveralls.io/github/ULL-ESIT-INF-DSI-2324/ull-esit-inf-dsi-23-24-prct10-fs-proc-sockets-magic-app-MariamLaaroussiRamos?branch=main)
 # Práctica 10 - Aplicación cliente-servidor para coleccionistas de cartas Magic #
 ## Introducción #
 En la Práctica 10 del curso Desarrollo de Sistemas Informáticos del Grado en Ingeniería Informática en la ULL, se aborda la implementación de una aplicación cliente-servidor para coleccionistas de cartas Magic. Este proyecto extiende el trabajo realizado en la Práctica 9, ahora utilizando sockets proporcionados por el módulo net de Node.js para la comunicación entre cliente y servidor.
